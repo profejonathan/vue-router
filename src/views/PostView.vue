@@ -1,8 +1,7 @@
 <template>
 <div>
-  <h1>Post</h1>
-  <Titulo texto="Hola"></Titulo>
-  <p> Parametro {{ $route.params.id }}</p>
+  <Titulo texto="Post"></Titulo>
+  <p> Parámetro {{ $route.params.id }}</p>
 </div>
 
 </template>
