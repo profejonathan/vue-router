@@ -10,6 +10,7 @@
 <script>
     import Titulo from '../components/Titulo.vue'
 export default {
+    name:'post',
     components: {
         Titulo
     }
